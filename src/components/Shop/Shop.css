@@ -1,0 +1,16 @@
+.products-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  /* Product items */
+  
+  /* [DOES NOT MATTER] */
+  html, body {
+    padding: 0;
+    margin: 0;
+    font-family: arial, sans-serif;
+  }
